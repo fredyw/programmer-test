@@ -2,4 +2,9 @@
 .project
 .settings/
 bin/
+build/
+.gradle
 *.swp
+*.iml
+*.ipr
+*.iws
